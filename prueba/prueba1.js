@@ -1,0 +1,1 @@
+const especial= document.querySelectorAll(`p.w`)
